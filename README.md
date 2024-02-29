@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2 hrs 39 mins
+
+C++           2 hrs 4 mins    ███████████████████▒░░░░░   76.91 %
+Text          22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
+Cuda          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+C             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JSON          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+```
+
 <!--END_SECTION:waka-->
