@@ -18,13 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 27 mins
+Total Time: 12 hrs 8 mins
 
-Cuda          5 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.82 %
-C++           4 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.76 %
-Objective-C   1 hr 40 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Python        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-C             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Cuda          5 hrs 16 mins   ██████████▓░░░░░░░░░░░░░░   43.26 %
+C++           3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.23 %
+Objective-C   1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Go            1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Python        35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
