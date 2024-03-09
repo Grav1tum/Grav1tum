@@ -18,13 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 46 mins
+Total Time: 12 hrs 10 mins
 
-Cuda          5 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   40.82 %
-C++           3 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-Objective-C   1 hr 39 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Go            1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-C             41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Cuda          4 hrs 48 mins   █████████▓░░░░░░░░░░░░░░░   38.60 %
+C++           3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Go            1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+C             1 hr 7 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Objective-C   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
 ```
 
 <!--END_SECTION:waka-->
