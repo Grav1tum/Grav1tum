@@ -18,13 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 56 mins
+Total Time: 5 hrs 14 mins
 
-C            3 hrs 55 mins   ███████████████▓░░░░░░░░░   63.15 %
-Go           1 hr 14 mins    █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-C++          22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Other        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Python       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+C            4 hrs 6 mins    ██████████████████▓░░░░░░   75.07 %
+Python       29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Other        14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Bash         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Text         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
