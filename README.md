@@ -18,13 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 57 mins
+Total Time: 2 hrs 24 mins
 
-Python       1 hr 32 mins    █████████████░░░░░░░░░░░░   51.57 %
-C            48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.77 %
-Bash         20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-Text         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python     1 hr 32 mins    ███████████████▓░░░░░░░░░   63.15 %
+Bash       20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+C          15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Text       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+YAML       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
