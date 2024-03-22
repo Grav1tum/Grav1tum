@@ -18,13 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 17 mins
+Total Time: 1 hr 31 mins
 
-Python     1 hr 2 mins     ████████████████████▒░░░░   81.00 %
-Bash       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-C          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python     1 hr 16 mins    █████████████████████░░░░   83.78 %
+Bash       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+C          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
