@@ -18,7 +18,7 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 24 June 2024
+From: 18 June 2024 - To: 25 June 2024
 
 Total Time: 3 hrs 41 mins
 
