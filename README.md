@@ -18,15 +18,15 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 31 July 2024
+From: 26 July 2024 - To: 02 August 2024
 
-Total Time: 3 hrs 30 mins
+Total Time: 5 hrs 14 mins
 
-Python       3 hrs 4 mins    ██████████████████████░░░   87.62 %
-Bash         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-SSH Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       4 hrs 44 mins   ██████████████████████▓░░   90.40 %
+Bash         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+SSH Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
