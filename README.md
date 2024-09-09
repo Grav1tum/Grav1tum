@@ -18,15 +18,15 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2024 - To: 06 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
-Total Time: 56 mins
+Total Time: 1 hr 41 mins
 
-Bash           24 mins         ███████████░░░░░░░░░░░░░░   43.83 %
-YAML           11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-Text           10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
-TeX            5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
-OpenEdge ABL   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+C++            1 hr 21 mins    ████████████████████░░░░░   80.09 %
+YAML           11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+TeX            5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+OpenEdge ABL   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+PostScript     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
