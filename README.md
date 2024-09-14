@@ -18,12 +18,11 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 10 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
-Total Time: 1 hr 32 mins
+Total Time: 1 hr 21 mins
 
-C++    1 hr 21 mins    ██████████████████████░░░   87.67 %
-YAML   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+C++   1 hr 21 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
