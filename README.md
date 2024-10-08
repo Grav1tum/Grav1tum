@@ -18,14 +18,11 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2024 - To: 05 October 2024
+From: 29 September 2024 - To: 06 October 2024
 
-Total Time: 2 hrs 3 mins
+Total Time: 1 hr 1 min
 
-C++     1 hr 40 mins    ████████████████████▒░░░░   80.70 %
-TeX     21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+C++   1 hr 1 min      █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
