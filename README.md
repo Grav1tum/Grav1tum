@@ -18,12 +18,12 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2024 - To: 19 October 2024
+From: 13 October 2024 - To: 20 October 2024
 
-Total Time: 5 hrs 7 mins
+Total Time: 5 hrs 20 mins
 
-Python   5 hrs 3 mins    ████████████████████████▓   98.65 %
-C++      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python   5 hrs 15 mins   ████████████████████████▓   98.70 %
+C++      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
