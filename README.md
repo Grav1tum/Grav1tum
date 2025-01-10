@@ -18,15 +18,15 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 2 hrs 27 mins
+Total Time: 5 hrs 39 mins
 
-Python       2 hrs 21 mins   ████████████████████████░   96.00 %
-Cuda         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-C            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python        5 hrs 14 mins   ███████████████████████░░   92.55 %
+JSON          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Cuda          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Objective-C   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+C             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
