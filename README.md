@@ -18,11 +18,15 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2025 - To: 18 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-Total Time: 0 secs
+Total Time: 11 hrs 50 mins
 
-No activity tracked
+Python       11 hrs 32 mins  ████████████████████████▒   97.41 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
