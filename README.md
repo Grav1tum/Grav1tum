@@ -18,15 +18,15 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2025 - To: 22 March 2025
+From: 17 March 2025 - To: 24 March 2025
 
-Total Time: 13 hrs 3 mins
+Total Time: 9 hrs 11 mins
 
-Python     6 hrs 48 mins   █████████████░░░░░░░░░░░░   52.14 %
-C++        2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-JSON       2 hrs 29 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-YAML       1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Text       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Python     4 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.05 %
+C++        1 hr 54 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.76 %
+JSON       1 hr 53 mins    █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+YAML       1 hr 4 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
+Bash       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
