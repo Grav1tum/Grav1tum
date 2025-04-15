@@ -18,14 +18,14 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2025 - To: 12 April 2025
+From: 07 April 2025 - To: 14 April 2025
 
-Total Time: 1 hr 25 mins
+Total Time: 1 hr 40 mins
 
-Python     39 mins         ███████████▒░░░░░░░░░░░░░   45.34 %
-YAML       24 mins         ███████░░░░░░░░░░░░░░░░░░   27.85 %
-Bash       22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python     53 mins         █████████████▒░░░░░░░░░░░   52.93 %
+YAML       24 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+Bash       22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
