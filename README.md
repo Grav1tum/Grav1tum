@@ -18,15 +18,15 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-Total Time: 37 mins
+Total Time: 38 mins
 
-Python       24 mins         ████████████████▒░░░░░░░░   65.47 %
-JSON         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-TeX          4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-BibTeX       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-BST          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Python       24 mins         ███████████████▓░░░░░░░░░   63.19 %
+TeX          5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+JSON         5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+BibTeX       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+BST          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
