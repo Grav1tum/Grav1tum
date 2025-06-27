@@ -18,11 +18,11 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 24 June 2025
+From: 18 June 2025 - To: 25 June 2025
 
-Total Time: 9 hrs 41 mins
+Total Time: 7 hrs 51 mins
 
-Markdown   9 hrs 41 mins   █████████████████████████   100.00 %
+Markdown   7 hrs 51 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
