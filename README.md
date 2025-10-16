@@ -18,13 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2025 - To: 13 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 8 hrs 55 mins
+Total Time: 7 hrs 32 mins
 
-Markdown     8 hrs 26 mins   ███████████████████████▓░   94.61 %
-HTML         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown     7 hrs 3 mins    ███████████████████████▒░   93.62 %
+HTML         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
