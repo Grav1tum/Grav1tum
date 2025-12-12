@@ -18,11 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Total Time: 0 secs
+Total Time: 21 mins
 
-No activity tracked
+TeX        21 mins         █████████████████████████   99.79 %
+BibTeX     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
