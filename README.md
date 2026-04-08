@@ -18,13 +18,13 @@ Last time I spent my time on:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2026 - To: 05 April 2026
+From: 30 March 2026 - To: 06 April 2026
 
-Total Time: 1 hr 32 mins
+Total Time: 1 hr 50 mins
 
-Markdown     1 hr 31 mins          ████████████████████████▓   99.23 %
-SSH Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Python       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Markdown     1 hr 47 mins          ████████████████████████▒   97.71 %
+Bash         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+SSH Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
